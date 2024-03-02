@@ -1,4 +1,4 @@
-#Machine Learning course from Otus
+# Machine Learning course from Otus
 
 ## This repository contains homework
 
