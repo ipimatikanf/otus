@@ -1,1 +1,5 @@
-# В данном репозитории находится домашняя работа по курсу ML Otus.
+#Machine Learning course from Otus
+
+## This repository contains homework
+
+# I'm :wave: Nikolay
