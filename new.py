@@ -1,3 +1,4 @@
+
 def share_bread(N, K):
     x = round(K // N)
     y = K - N * x
@@ -19,3 +20,7 @@ def leap_year(year):
     return text_result
 
 assert leap_year(5) == 'YOU SHALL NOT PASS'
+
+
+a = np.random.randint(-10, 10, size=10)
+print(a)
